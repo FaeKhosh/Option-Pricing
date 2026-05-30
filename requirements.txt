@@ -1,0 +1,6 @@
+dash==2.14.1
+plotly==5.17.0
+pandas==2.0.3
+openpyxl==3.1.2
+gunicorn==21.2.0
+python-dotenv==1.0.0
